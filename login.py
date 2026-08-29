@@ -1,3 +1,6 @@
+print("Hola mundo")
+
+
 import os
 import sys
 import tkinter as tk
