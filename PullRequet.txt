@@ -1,0 +1,4 @@
+Que es Pull Request:
+según loque investigue un Pull Request es una solicitud para proponer que tus cambios de código o simplemente cambios que hagas se incorporen a otra rama o ha la rama main de un repositorio.
+Pero hay que dejar algo importante de forma clara, un Pull Request no es lo mismo que git pull:
+git pull sirve para traer cambios desde un repositorio remoto, mientras que un Pull Request sirve para proponer y revisar cambios antes de incorporarlos a otra rama.
